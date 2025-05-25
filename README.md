@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I’m @NaingLinnPhyoe from Myanmar and you can call me 'Marco'.
 - 👀 I’m passionate about data visualization and analysis for deriving powerful insights.
-- 🌱 Currently learning advanced DAX measures in Power BI and working on end-to-end SQL projects.
+- 🌱 Currently learning advanced dax measures in Power BI and working on end-to-end SQL projects.
 
 ## Let's Connect
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/your-updated-profile-link)
