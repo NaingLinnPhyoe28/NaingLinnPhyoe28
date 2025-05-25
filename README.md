@@ -6,14 +6,10 @@
 ## Let's Connect
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/your-updated-profile-link)
 
-## Visualization Tools 
+## Tools I use
 
-![image](https://github.com/user-attachments/assets/e480bb98-d0a1-454c-995e-8baa346e67df)
+![image](https://github.com/user-attachments/assets/f95a5a58-9513-4081-a1fd-48c23a40d733)
 
-
-## Language I use for database
-
-![image](https://github.com/user-attachments/assets/8c45ff5a-e4c8-480f-b52e-27e432f7ef09)
 
 
 ## Fun Fact
